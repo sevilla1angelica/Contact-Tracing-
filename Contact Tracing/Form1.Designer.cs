@@ -83,6 +83,7 @@
             this.btnAttention.TabIndex = 0;
             this.btnAttention.Text = "Attention";
             this.btnAttention.UseVisualStyleBackColor = false;
+            this.btnAttention.Click += new System.EventHandler(this.btnAttention_Click);
             // 
             // lblLastname
             // 

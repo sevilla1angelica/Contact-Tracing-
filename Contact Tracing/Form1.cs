@@ -11,5 +11,10 @@ namespace Contact_Tracing
         {
 
         }
+
+        private void btnAttention_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("We will not, in any circumstances, share your personal information with other individuals or organizations without your permission, including public organizations, corporations or individuals, except when applicable by law.");
+        }
     }
 }
