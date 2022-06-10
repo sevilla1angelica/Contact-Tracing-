@@ -241,7 +241,7 @@
             // txtbxHomeno
             // 
             this.txtbxHomeno.BackColor = System.Drawing.Color.Tan;
-            this.txtbxHomeno.ForeColor = System.Drawing.Color.Tan;
+            this.txtbxHomeno.ForeColor = System.Drawing.Color.Black;
             this.txtbxHomeno.Location = new System.Drawing.Point(65, 277);
             this.txtbxHomeno.Name = "txtbxHomeno";
             this.txtbxHomeno.Size = new System.Drawing.Size(208, 23);
@@ -262,7 +262,7 @@
             // txtbxBarangay
             // 
             this.txtbxBarangay.BackColor = System.Drawing.Color.Tan;
-            this.txtbxBarangay.ForeColor = System.Drawing.Color.Tan;
+            this.txtbxBarangay.ForeColor = System.Drawing.Color.Black;
             this.txtbxBarangay.Location = new System.Drawing.Point(279, 277);
             this.txtbxBarangay.Name = "txtbxBarangay";
             this.txtbxBarangay.Size = new System.Drawing.Size(101, 23);
@@ -283,7 +283,7 @@
             // txtbxCity
             // 
             this.txtbxCity.BackColor = System.Drawing.Color.Tan;
-            this.txtbxCity.ForeColor = System.Drawing.Color.Tan;
+            this.txtbxCity.ForeColor = System.Drawing.Color.Black;
             this.txtbxCity.Location = new System.Drawing.Point(386, 277);
             this.txtbxCity.Name = "txtbxCity";
             this.txtbxCity.Size = new System.Drawing.Size(74, 23);
@@ -304,7 +304,7 @@
             // txtbxZipcode
             // 
             this.txtbxZipcode.BackColor = System.Drawing.Color.Tan;
-            this.txtbxZipcode.ForeColor = System.Drawing.Color.Tan;
+            this.txtbxZipcode.ForeColor = System.Drawing.Color.Black;
             this.txtbxZipcode.Location = new System.Drawing.Point(466, 277);
             this.txtbxZipcode.Name = "txtbxZipcode";
             this.txtbxZipcode.Size = new System.Drawing.Size(56, 23);
@@ -325,7 +325,7 @@
             // txtbxCountry
             // 
             this.txtbxCountry.BackColor = System.Drawing.Color.Tan;
-            this.txtbxCountry.ForeColor = System.Drawing.Color.Tan;
+            this.txtbxCountry.ForeColor = System.Drawing.Color.Black;
             this.txtbxCountry.Location = new System.Drawing.Point(528, 277);
             this.txtbxCountry.Name = "txtbxCountry";
             this.txtbxCountry.Size = new System.Drawing.Size(90, 23);
