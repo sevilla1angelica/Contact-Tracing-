@@ -49,9 +49,10 @@ namespace Contact_Tracing
                 file.WriteLine("Sore Throat: " + txtbxSoreThroat.Text);
                 file.WriteLine("Diarrhea: " + txtbxDiarrhea.Text);
 
-                file.Close();
+               
                 MessageBox.Show("Thank you!", "Keep safe.", MessageBoxButtons.OK);
-                Application.Exit();
+                file.Close();
+                Application.Restart();
             }
         }
     }
